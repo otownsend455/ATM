@@ -1,5 +1,5 @@
 # ATM
-Developed with a team an automated teller machine (ATM).
+Developed with a team an automated teller machine (ATM) written in Java.
 
 The entire project is contained inside the zip file, group_0358. 
 
